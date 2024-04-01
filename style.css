@@ -1,0 +1,6 @@
+.crop {
+    object-fit: cover;
+    height: 150px;
+    width: 10%;
+    object-position: center 40%;
+}
